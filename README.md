@@ -5,6 +5,12 @@ Saya seorang **Mahasiswa Informatika** di Universitas Siliwangi.\
 🌱 I’m currently learning Data Science and Machine Learning.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnuaryn/)-ku ya.
 
+<p align="left">
+<a href="https://github.com/wisnuaryn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wisnuaryn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wisnuaryn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
