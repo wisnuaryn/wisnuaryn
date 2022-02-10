@@ -1,4 +1,11 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Wisnu Arya Nugraha**.\
+Saya seorang **Mahasiswa Informatika** di Universitas Siliwangi.\
+🌱 I’m currently learning Data Science and Machine Learning.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnuaryn/)-ku ya.
+
+
 
 <!--
 **wisnuaryn/wisnuaryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
