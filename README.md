@@ -1,9 +1,9 @@
-# Halo semua! 
+# Hello world! 
 
-Perkenalkan nama saya **Wisnu Arya Nugraha**.\
-Saya seorang **Mahasiswa Informatika** di Universitas Siliwangi.\
-🌱 I’m currently learning Data Science and Machine Learning.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wisnuaryn/)-ku ya.
+My name is **Wisnu Arya Nugraha**.\
+I'm **Informatic Student** in Siliwangi University.\
+🌱 Currently, i learn Data Science and Machine Learning.\
+If you interest with my portofolio, please reach me in [Linkedin](https://www.linkedin.com/in/wisnuaryn/)-ku ya.
 
 <p align="left">
 <a href="https://github.com/wisnuaryn">
