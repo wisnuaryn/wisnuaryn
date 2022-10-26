@@ -3,7 +3,7 @@
 My name is **Wisnu Arya Nugraha**.\
 I'm **Informatic Student** in Siliwangi University.\
 🌱 Currently, i learn Data Science and Machine Learning.\
-If you interest with my portofolio, please reach me in [Linkedin](https://www.linkedin.com/in/wisnuaryn/)-ku ya.
+If you interest with my portofolio, please reach me in my [Linkedin](https://www.linkedin.com/in/wisnuaryn/).
 
 <p align="left">
 <a href="https://github.com/wisnuaryn">
